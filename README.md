@@ -23,7 +23,7 @@ Players may receive a -1 tier demotion during Promotion Day if they didn't play 
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
 
-- We prevent having more than one open seat at any given time.
+- We do not want more than one open seat at any given time.
   - Captains may use alt players to fill extra seats, as a mechanism to keep our trophy count high enough, until we can go back to a max of one open seat. When this happens, a captain must notify the team what player that is.
 - When a seat opens, captains should start with a higher trophy minimum and slowly lower it the longer the seat remains unfilled.
 - We prioritize inviting prior team members back, who didn't leave due to negative behaviors, so long as their trophy count is within -200 trophies of what the current trophy minimum is.
