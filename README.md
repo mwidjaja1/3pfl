@@ -5,7 +5,7 @@ The below four rules are actually rules. We expect all team members to follow th
 ## 1. Be friendly to our team ❤️
 
 - You will be demoted or booted if 3+ active captains determined that you attacked another teammate. This includes bullying, harassment, cursing, misleading, or rudeness towards another teammate, _even if the other side was at fault too_.
-- You will be asked to stop if 3+ active captains determined you did something that wasn't appropriate or beneficial for our community. This includes abusing your team role, disobeying a captain, or doing something which was illegal, NSFW, or discriminatory. We are more strict on the in-game chat, to comply with Noodlecake's TOS. If you continue not to stop after we asked you to, you will be demoted or booted.
+- You will be asked to stop if 3+ active captains determined you did something that wasn't appropriate or beneficial for our community. This includes abusing your team role, disobeying a captain, or doing something which was illegal, NSFW, or discriminatory. We are more strict on the in-game chat, to comply with Noodlecake's TOS. If you continue after we asked you to stop, you will be demoted or booted.
 
 You can report any issues by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
