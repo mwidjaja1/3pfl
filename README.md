@@ -1,6 +1,15 @@
 # 3 Putt for Life Team Rules
 
-The below four rules are actually rules. We expect all team members to follow these rules at all times either on the game or [on our Discord](https://discord.gg/RGzcnXfWhv).
+## Summary
+We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
+1. Be friendly and respectful to our team. Bullying, harassing, lying, abusing your role, and spamming are examples of not being respectful. ❤️
+2. We promote players who were on the team during the last 7 days, were active, has 1700+ trophies, & is on Discord membership (for Pro promotions) 📈
+3. We demote/boot players who are inactive in the last 7 days or violated a rule 😞
+4. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
+5. If you want to tie with another player, spam NOO x3. If the other player responds the same or responds with a 👍, it means you agree to help each other.
+6. Don't give us a reason to change the rules because of you
+
+---
 
 ## 1. Be friendly to our team ❤️
 
@@ -31,18 +40,11 @@ If a 'Rookie' player had a reason to be demoted again, they become a candidate f
 ## 4. Stickers for Pros 💌
 Players who became Pro for the first time are eligible to request a free sticker of our team logo mailed out. Fill out [the form at our homepage](https://linktr.ee/3pfl) to request a sticker.
 
-# 3 Putt for Life Best Practices
+## 5. In a Trophy game where all players are teammates, try to tie 🤝
+In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active and it's game on. It is against the rules for both players to agree to help and for one player to use that opportunity to backstab the other player into an easy win. When this happens, please provide video evidence as soon as you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl)
 
-These are not rules, because frankly, there's no way us captains or co-captains could enforce these with certainty. But, there are some best practices we kindly ask you to follow, whenever possible.
-
-## 5. Trade cards the team needs 🧢
-Please try to sell cards that either someone else is asking for or cards which are low in stock in the store. Remember to consider trading Hat cards, which traditionally, are low in stock.
-
-## 6. In a Trophy game where all players are teammates, try to tie 🤝
-In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, both team players must spam the 'Nooo' emoji three times. If some players do not respond, this rule is **not** active and it's game on. It is however against the rules for both players to say 'Noo' and for one player to use that opportunity to backstab the other player into an easy win.
-
-## 7. Don't give us a reason to change the rules because of you 🌭
+## 6. Don't give us a reason to change the rules because of you 🌭
 If you're testing the Team Rules to see how far you can go, brace yourself for disappointment just like meeting a fellow person who believes the hotdog is a sandwich. These rules can change at anytime with no warning to protect a friendly & active team environment.
 
-## 8. Questions? Feedback? 💬
+# Questions? Feedback? 💬
 You are always welcome and encouraged to chat with a captain or co-captain if you have questions or feedback. You can do that [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl)
