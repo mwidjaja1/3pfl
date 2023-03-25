@@ -37,8 +37,10 @@ If a 'Rookie' player had a reason to be demoted again, they become a candidate f
 - When a seat opens, captains should start with a higher trophy minimum and slowly lower it the longer the seat remains unfilled.
 - We prioritize inviting prior team members back, who didn't leave due to negative behaviors, so long as their trophy count is within -200 trophies of what the current trophy minimum is.
 
-## 4. Stickers for Pros 💌
-Players who became Pro for the first time are eligible to request a free sticker of our team logo mailed out. Fill out [the form at our homepage](https://linktr.ee/3pfl) to request a sticker.
+## 4. Stickers and/or Iron-On Patches for Pros 💌
+Players who became Pro for the first time are eligible to request a free sticker and/or iron-on patch of our team logo mailed out. Fill out [the form at our homepage](https://linktr.ee/3pfl) to request one. This is our gift to say thank you for being on our team.
+
+If you request an Iron On Patch, [follow these instructions to apply it](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022). You'll have to BYO Parchment or Wax Paper in Step 3.
 
 ## 5. In a Trophy game where all players are teammates, try to tie 🤝
 In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active and it's game on. It is against the rules for both players to agree to help and for one player to use that opportunity to backstab the other player into an easy win. When this happens, please provide video evidence as soon as you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl)
