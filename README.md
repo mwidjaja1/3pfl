@@ -2,7 +2,7 @@
 
 ## Summary
 We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
-1. Be friendly and respectful to our team. Bullying, harassing, lying, abusing your role, and spamming are examples of not being respectful. ❤️
+1. Be friendly and respectful to our team. Bullying, harassing, lying, promotion of off topic ventures (i.e. spam), and abusing your role are examples of not being respectful. ❤️
 2. We promote players who were on the team during the last 7 days, were active, has 1700+ trophies, & is on Discord membership (for Pro promotions) 📈
 3. We demote/boot players who are inactive in the last 7 days or violated a rule 😞
 4. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
@@ -14,7 +14,7 @@ We expect all team members to follow these four rules on the game and [on our Di
 ## 1. Be friendly to our team ❤️
 
 - You will be demoted or booted if 3+ active captains determined that you attacked another teammate. This includes bullying, harassment, cursing, misleading, or rudeness towards another teammate, _even if the other side was at fault too_.
-- You will be asked to stop if 3+ active captains determined you did something that wasn't appropriate or beneficial for our community. This includes abusing your team role, disobeying a captain, or doing something which was illegal, NSFW, or discriminatory. We are more strict on the in-game chat, to comply with Noodlecake's TOS. If you continue after we asked you to stop, you will be demoted or booted.
+- You will be asked to stop if 3+ active captains determined you did something that wasn't appropriate or beneficial for our community. This includes abusing your team role, disobeying a captain, promotion of off topic ventures (i.e. spam), or doing something which was illegal, NSFW, or discriminatory. We are more strict on the in-game chat, to comply with Noodlecake's TOS. If you continue after we asked you to stop, you will be demoted or booted.
 
 You can report any issues by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
