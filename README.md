@@ -19,9 +19,10 @@ We are trying to create a friendly + active team environment. To that end, all t
 - **Support our family friendly community**. Examples of violations include abusing your team role, making discriminatory statements, being egregiously not family friendly, or egregious spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-In most cases, when a rule violation is identified, the captains will privately discuss this matter. They will decide if a warning, demotion, and/or booting is appropriate based on the certainty, severity, frequency, and location of the issue at hand. A verdict can be reached once 3 co-captains/captains explicitly agrees, so long as there isn't more co-captains/captains explicitly disagreeing.
+When a rule violation is identified:
 
-In an emergency situation where a player could cause genuine danger to the team or a teammate if left unchecked, any captain or co-captain can take action immediately without getting approval. Examples of these violations include illegal activity, actual threats to one's safety, attempting to destroy the team, etc.
+- **If this is an emergency situation** where action must be taken immediately to protect the team or a player, any captain or co-captain can take action immediately. Examples of an emergency include, but are not limited to, illegal activity, actual threats to one's safety, attempting to destroy the team, etc.
+- **In all other cases,** the captains will privately discuss this matter. They will decide if a warning, demotion, and/or booting is appropriate based on the severity & confidence of the issue at hand. A verdict can be reached once 3 co-captains/captains explicitly agrees, so long as there isn't more co-captains/captains explicitly disagreeing.
 
 If you want to report a team member for violating these rules, try to take evidence if possible and let us know by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
