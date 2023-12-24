@@ -15,13 +15,13 @@ We expect all team members to follow these four rules on the game and [on our Di
 
 We are trying to create a friendly + active team environment. To that end, all teammates -- regardless of level even up to Captain -- are expected to:
 
-- **Be respectful and to all teammates even if the other side was at fault too**. Examples of violations include bullying, harassment, lying, griefing, vulgarity, or rudeness that's targeted to a teammate.
-- **Support our family friendly community**. Examples of violations include abusing your team role, making discriminatory statements, being egregiously not family friendly, or egregious spam.
+- **Be respectful to all teammates even if the other side was at fault**. Some examples of violations include bullying, harassment, lying, griefing, vulgarity, or rudeness that's targeted to a teammate.
+- **Support our family friendly community**. Some examples of violations include abusing your team role, making discriminatory statements, being egregiously not family friendly, or egregious spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
 When a rule violation is identified:
 
-- **If this is an emergency situation** where action must be taken immediately to protect the team or a player, any captain or co-captain can take action immediately. Examples of an emergency include, but are not limited to, illegal activity, actual threats to one's safety, attempting to destroy the team, etc.
+- **If this is an emergency situation** where action must be taken immediately to protect the team or a player, any captain or co-captain can take action immediately. Some examples include illegal activity, actual threats to one's safety, attempting to destroy the team, etc.
 - **In all other cases,** the captains will privately discuss this matter. They will decide if a warning, demotion, and/or booting is appropriate based on the severity & confidence of the issue at hand. A verdict can be reached once 3 co-captains/captains explicitly agrees, so long as there isn't more co-captains/captains explicitly disagreeing.
 
 If you want to report a team member for violating these rules, try to take evidence if possible and let us know by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
