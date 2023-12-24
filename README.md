@@ -13,10 +13,17 @@ We expect all team members to follow these four rules on the game and [on our Di
 
 ## 1. Be friendly to our team ❤️
 
-- You will be demoted or booted if 3+ active captains determined that you attacked another teammate. This includes bullying, harassment, cursing, misleading, or rudeness towards another teammate, _even if the other side was at fault too_.
-- You will be asked to stop if 3+ active captains determined you did something that wasn't appropriate or beneficial for our community. This includes abusing your team role, disobeying a captain, or doing something which was illegal, NSFW, or discriminatory. We are more strict on the in-game chat, to comply with Noodlecake's TOS. If you continue after we asked you to stop, you will be demoted or booted.
+We are trying to create a friendly + active team environment. To that end, all teammates -- regardless of level even up to Captain -- are expected to:
 
-You can report any issues by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
+- **Be respectful and to all teammates even if the other side was at fault too**. Examples of violations include bullying, harassment, lying, griefing, vulgarity, or rudeness that's targeted to a teammate.
+- **Support our family friendly community**. Examples of violations include abusing your team role, making discriminatory statements, being egregiously not family friendly, or egregious spam.
+- **Not break any laws or Noodlecake's Terms of Service**
+
+In most cases, when a rule violation is identified, the captains will privately discuss this matter. They will decide if a warning, demotion, and/or booting is appropriate based on the certainty, severity, frequency, and location of the issue at hand. A verdict can be reached once 3 co-captains/captains explicitly agrees, so long as there isn't more co-captains/captains explicitly disagreeing.
+
+In an emergency situation where a player could cause genuine danger to the team or a teammate if left unchecked, any captain or co-captain can take action immediately without getting approval. Examples of these violations include illegal activity, actual threats to one's safety, attempting to destroy the team, etc.
+
+If you want to report a team member for violating these rules, try to take evidence if possible and let us know by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
  ## 2. Promotions Guidelines 📈
 Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
@@ -43,7 +50,14 @@ Players who became Pro for the first time are eligible to request a free sticker
 If you request an Iron On Patch, [follow these instructions to apply it](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022). You'll have to BYO Parchment or Wax Paper in Step 3.
 
 ## 5. In a Trophy game where all players are teammates, try to tie 🤝
-In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active and it's game on. It is against the rules for both players to agree to help and for one player to use that opportunity to backstab the other player into an easy win. When this happens, please provide video evidence as soon as you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl)
+In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active, it's game on, and this is allowable.
+
+It is against the rules for:
+
+1. Both players to agree to help and for one player to use that opportunity to backstab the other player into an easy win.
+2. For one player to explicitly taunt or grief a teammate in a 1v1 game.
+
+When this happens, please provide video evidence if you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl).
 
 ## 6. Don't give us a reason to change the rules because of you 🌭
 If you're testing the Team Rules to see how far you can go, brace yourself for disappointment just like meeting a fellow person who believes the hotdog is a sandwich. These rules can change at anytime with no warning to protect a friendly & active team environment.
