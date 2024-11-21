@@ -32,6 +32,7 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - Was on the team and active during the past 7 days.
 - Met the current trophy min or is above 1700, whichever is lower.
 - Did not recently violate Rule #1.
+- To go from Rookie to Amateur _for the first time_: You must have made some post in the game chat, traded some cards, or any other act of engagement with the team. 
 - To go from Amateur to Pro: Must be on the 3PFL Discord. (p.s. once you're a Pro, you can request a free physical team sticker.)
 - To go from Pro to Co-Captains: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
