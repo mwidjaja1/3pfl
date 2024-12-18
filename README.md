@@ -30,14 +30,14 @@ If you want to report a team member for violating these rules, try to take evide
  ## 2. Promotions Guidelines 📈
 Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
 
-- Positively contributed to the team during the past week.
+- Was active on the team during the past week.
 - Met the current trophy min or is above 1700, whichever is lower.
-- Did not recently violate Rule #1.
+- Did not violate Rule #1 in the past two seasons.
 - To go from Amateur to Pro: Must be on the 3PFL Discord or actively engaged in the game chat. (p.s. once you're a Pro, you can request a free physical team sticker.)
 - To go from Pro to Co-Captains: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
-Players may receive a -1 tier demotion during Promotion Day if they didn't positively contribute to the team during the past 7 days. Players may be demoted or booted out of turn if they violated Rule #1.
+Players may receive a -1 tier demotion during Promotion Day if they weren't active during the past 7 days. Players may be demoted or booted at any time if they violated Rule #1.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
 
