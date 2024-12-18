@@ -17,6 +17,7 @@ We are trying to create a friendly + active team environment. To that end, all t
 
 - **Be respectful to all teammates even if the other side was at fault**. Some examples of violations include bullying, harassment, lying, griefing, vulgarity, or rudeness that's targeted to a teammate.
 - **Support our family friendly community**. Some examples of violations include abusing your team role, making discriminatory statements, being egregiously not family friendly, or egregious spam.
+- **Positively contribute to our team**. These are the players that make our team better, by supporting our culture, helping us excel, and supporting their fellow teammates in games whenever possible.
 - **Not break any laws or Noodlecake's Terms of Service**
 
 When a rule violation is identified:
@@ -29,21 +30,20 @@ If you want to report a team member for violating these rules, try to take evide
  ## 2. Promotions Guidelines 📈
 Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
 
-- Was on the team and active during the past 7 days.
+- Positively contributed to the team during the past week.
 - Met the current trophy min or is above 1700, whichever is lower.
 - Did not recently violate Rule #1.
 - To go from Amateur to Pro: Must be on the 3PFL Discord or actively engaged in the game chat. (p.s. once you're a Pro, you can request a free physical team sticker.)
 - To go from Pro to Co-Captains: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
-Players may receive a -1 tier demotion during Promotion Day if they didn't play _or_ wasn't active during the past 7 days. Players may be demoted or booted out of turn if they violated Rule #1.
+Players may receive a -1 tier demotion during Promotion Day if they didn't positively contribute to the team during the past 7 days. Players may be demoted or booted out of turn if they violated Rule #1.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
 
 - We do not want more than one open seat at any given time.
   - Captains may use alt players to fill extra seats, as a mechanism to keep our trophy count high enough, until we can go back to a max of one open seat. When this happens, a captain must notify the team what player that is.
-- When a seat opens, captains should start with a higher trophy minimum and slowly lower it the longer the seat remains unfilled.
-- We prioritize inviting prior team members back, who didn't leave due to negative behaviors, so long as their trophy count is within -200 trophies of what the current trophy minimum is.
+- We prioritize inviting prior team members back, who didn't leave due to negative behaviors, when they're within range of our current trophy minimum.
 
 ## 4. Stickers and/or Iron-On Patches for Pros 💌
 Players who became Pro for the first time are eligible to request a free sticker and/or iron-on patch of our team logo mailed out. Fill out [the form at our homepage](https://linktr.ee/3pfl) to request one. This is our gift to say thank you for being on our team.
