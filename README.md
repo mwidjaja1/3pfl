@@ -1,23 +1,23 @@
 # 3 Putt for Life Team Rules
 
 ## Summary
-We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
+We expect all team members to follow these rules in the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
 
-1. Be a positive contributor to the team. Be respectful, support our family friendly community, tie in challenge mode, and participate positively with the team so that your teammates are glad you're here. ❤️
+1. Don't intentionally hurt the team. Be respectful, support our family friendly community, & tie in challenge mode. ❤️
 2. We promote players who were on the team during the last 7 days, were active, & has 1700+ trophies. Pros must also be on Discord or active in the game chat. 📈
-3. We demote/boot players who are inactive in the last 7 days or violated a rule 😞
+3. We demote/boot players who are inactive in the last 7 days or violated Rule #1 😞
 4. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
-5. Don't give us a reason to change the rules because of you
+5. Don't give us a reason to change the rules because of you 🌭
 
 ---
 
-## 1. Be a positive contributor to the team ❤️
+## 1. Don't intentionally hurt the team ❤️
 
-We expect all teammates, at all levels even up to Captain, to contribute positively to the team so that we're better with you rather than without. All teammates are expected to:
+We expect all teammates to play, speak, and behave in a way so that our team is better with you than without. All teammates are expected to follow these rules, with these examples being non-exhaustive of the range of conditions we're considering:
 
 - **Respect your teammates, even if the other side was at fault**. For example, do not bully, harass, lie, grief, discriminate, insult, or be rude to a teammate.
-- **Contribute in a family friendly way that positively helps the team**. For example, do not abuse your team role, use vulgar or crude language, or spam.
-- **Tie in challenge mode and don't intentionally sabotage the team in trophy games**. Trophy games are hard, but, try not to sabotage your teammates. In Challenge Mode, you must always tie.
+- **Contribute in a family friendly way that benefits the team**. For example, do not abuse your team role, use vulgar or crude language, or spam.
+- **Tie in challenge mode and don't sabotage the team in trophy games**. For example, do not troll, grief, or sandbag the team in trophy games.
 - **Not break any laws or Noodlecake's Terms of Service**
 
 When a rule violation is identified:
