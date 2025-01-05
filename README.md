@@ -33,11 +33,9 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - **For Rookies to become Amateur:**
     - Players must be on the team for the past 7d and currently have at least 1700 trophies.
     - Players must be free from any rule violations for at least the past 14d.
-    - Players must have contributed to the team in some way (i.e. trading cards, chatting, and/or playing the game with respect for their teammates).
+    - Players must have contributed to the team in some way during the current season (i.e. trading cards, chatting, and/or playing the game with respect for their teammates).
 - **For Amateurs to become Pro**:
-    - Players must be on the team for the past 7d and currently have at least 1700 trophies.
-    - Players must be free from any rule violations for at least the past 14d.
-    - Players must have contributed to the team in some way.
+    - The same requirements as the Amateur tier plus...
     - Players must be on the 3PFL Discord or actively engaged in the game chat.
 - **For Pros to become Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
