@@ -48,7 +48,7 @@ If you request an Iron On Patch, [follow these instructions to apply it](https:/
 Players may be demoted for these reasons:
 
 - **Inactivity for the past 7d:** These players will be demoted by -1 tier on Promotion/Demotion Day
-- **Negatively impacting the team:** If a player behaves and/or plays the game in a way so that it negatively impacts the team, we _may_ consider them inactive and demote/boot as such.
+- **Negatively impacting the team:** If a player behaves and/or plays the game in a way so that it negatively impacts the team, we _may_ consider them inactive and demote/boot as such. Captains have discretion in determining if a player has crossed this line and in enacting this demotion.
 - **Violating a Team Rule:** These players may be demoted by any number of tiers at any point in time, though we do prefer to warn players first whenever possible.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
