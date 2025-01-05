@@ -33,7 +33,7 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - **For Rookies to become Amateur:**
     - Players must be on the team for the past 7d and currently have at least 1700 trophies.
     - Players must be free from any rule violations for at least the past 14d.
-    - Players must have contributed to the team in some way for the past 7d (i.e. trading cards, chatting, and/or playing the game with respect for their teammates).
+    - Players must have contributed to the team in some way for the past 7d (i.e. trading cards, chatting, positive team engagement, etc).
 - **For Amateurs to become Pro**:
     - The same requirements as the Amateur tier plus...
     - Players must be on the 3PFL Discord or actively engaged in the game chat.
