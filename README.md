@@ -33,7 +33,7 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - **For Rookies to become Amateur:**
     - Players must be on the team for the past 7d and currently have at least 1700 trophies.
     - Players must be free from any rule violations for at least the past 14d.
-    - Players must have contributed to the team in some way during the current season (i.e. trading cards, chatting, and/or playing the game with respect for their teammates).
+    - Players must have contributed to the team in some way for the past 7d (i.e. trading cards, chatting, and/or playing the game with respect for their teammates).
 - **For Amateurs to become Pro**:
     - The same requirements as the Amateur tier plus...
     - Players must be on the 3PFL Discord or actively engaged in the game chat.
@@ -48,7 +48,7 @@ If you request an Iron On Patch, [follow these instructions to apply it](https:/
 Players may be demoted for these reasons:
 
 - **Inactivity for the past 7d:** These players will be demoted by -1 tier on Promotion/Demotion Day
-- **Consistent lack of Team Contributions for 2+ seasons:** If a player is more or less a ghost player, making zero contributions to the team's card pool or chat for 2 seasons (i.e. 4w) for unknown reasons, we _may_ consider them inactive and demote/boot as such.
+- **Consistent lack of Team Contributions for 2+ seasons:** If a player is more or less a ghost player, making zero contributions to the team's card pool or chat over 1-2 seasons for unknown reasons, we _may_ consider them inactive and demote/boot as such.
 - **Violating a Team Rule:** These players may be demoted by any number of tiers at any point in time, though we do prefer to warn players first whenever possible.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
