@@ -48,7 +48,7 @@ If you request an Iron On Patch, [follow these instructions to apply it](https:/
 Players may be demoted for these reasons:
 
 - **Inactivity for the past 7d:** These players will be demoted by -1 tier on Promotion/Demotion Day
-- **Consistent lack of Team Contributions for 2+ seasons:** If a player is more or less a ghost player, making zero contributions to the team's card pool or chat over 1-2 seasons for unknown reasons, we _may_ consider them inactive and demote/boot as such.
+- **Negatively impacting the team:** If a player behaves and/or plays the game in a way so that it negatively impacts the team, we _may_ consider them inactive and demote/boot as such.
 - **Violating a Team Rule:** These players may be demoted by any number of tiers at any point in time, though we do prefer to warn players first whenever possible.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
