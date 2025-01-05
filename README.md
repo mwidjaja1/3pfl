@@ -48,7 +48,7 @@ If you request an Iron On Patch, [follow these instructions to apply it](https:/
 Players may be demoted for these reasons:
 
 - **Being inactive during the past 7d:** These players will be demoted by -1 tier on Promotion/Demotion Day.
-- **Not fulfilling your role's requirements over consecutive weeks:** If a player is no longer complying with their role's promotion standard over _consecutive_ weeks, they _may_ be demoted too, depending on how egregious the lack of activity is.
+- **Being effectively silent over consecutive weeks:** If a player is no longer contributing to the team at all (i.e card pool, chatting, positive team engagement, etc) over _consecutive_ weeks, they _may_ be demoted too.
 - **Violating a rule:** These players may be demoted by any number of tiers at any point in time, though we do prefer to warn players first whenever possible.
 
 If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
