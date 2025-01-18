@@ -3,8 +3,8 @@
 ## Summary
 We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
 1. Be friendly and respectful to our team. Bullying, harassing, lying, abusing your role, and spamming are examples of not being respectful. ❤️
-2. We promote players who were on the team during the last 7 days, were active, has 1700+ trophies, & is on Discord membership (for Pro promotions) 📈
-3. We demote/boot players who are inactive in the last 7 days or violated a rule 😞
+2. We promote players who are active on the team, has 1700+ trophies, & is positively contributing to the team 📈
+3. We demote/boot players who are inactive in the last 7 days, consistently didn't meet their role's guidelines, or violated a rule 😞
 4. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
 5. If you want to tie with another player, spam NOO x3. If the other player responds the same or responds with a 👍, it means you agree to help each other.
 6. Don't give us a reason to change the rules because of you
@@ -27,24 +27,29 @@ When a rule violation is identified:
 If you want to report a team member for violating these rules, try to take evidence if possible and let us know by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
  ## 2. Promotions Guidelines 📈
-Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
+Once a week (on a randomly selected day) we will promote eligible players by +1 Tier in this way:
 
-- Was on the team and active during the past 7 days.
-- Met the current trophy min or is above 1700, whichever is lower.
-- Did not recently violate Rule #1.
-- To go from Rookie to Amateur: You must have posted in the game chat, traded some cards, or engaged with the team in any other way.
-- To go from Amateur to Pro: Must be on the 3PFL Discord. (p.s. once you're a Pro, you can request a free physical team sticker.)
-- To go from Pro to Co-Captains: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
+**All Promotions follow these guidelines**:
+- You must be on the team and active for the past 7 days
+- You must meet the current trophy minimum or have above 1700 trophies, whichever is lower.
+- Did not recently violate a team rule.
+
+**Additionally, to foster a positive team environment, these guidelines also apply to certain roles**:
+- **To become an Amateur**: You must be a good team mate. Examples include trading cards, chatting with the team, and/or having positive experiences with the team in game.
+- **To become a Pro**: You must be an engaged team mate. Examples include being active on team chat or being a member of the 3PFL Discord. Plus, everything above.
+- **To become a Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team. Plus, everything above.
 
 ## 3. Demotion + Boot Guidelines 😞
-Players may receive a -1 tier demotion during Promotion Day if they didn't play _or_ wasn't active during the past 7 days. Players may be demoted or booted out of turn if they violated Rule #1.
 
-If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
+On promotion day, we will also unfortunately demote eligible players by -1 tier in this way:
 
-- We do not want more than one open seat at any given time.
-  - Captains may use alt players to fill extra seats, as a mechanism to keep our trophy count high enough, until we can go back to a max of one open seat. When this happens, a captain must notify the team what player that is.
-- When a seat opens, captains should start with a higher trophy minimum and slowly lower it the longer the seat remains unfilled.
-- We prioritize inviting prior team members back, who didn't leave due to negative behaviors, so long as their trophy count is within -200 trophies of what the current trophy minimum is.
+**All Demotions follow these guidelines:**
+
+- Players _will_ be demoted on Promotion/Demotion day if they weren't active during the past 7 days.
+- Players _may_ be demoted at anytime if they violated any of our Team Rules.
+- Players _may_ be demoted on Promotion/Demotion day if they've consistently edged around our Team Rules in a way that doesn't foster a positive team environment.
+
+If a 'Rookie' level player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will boot players with a focus of keeping the team stable in regards to both the leaderboard rankings and team culture.
 
 ## 4. Stickers and/or Iron-On Patches for Pros 💌
 Players who became Pro for the first time are eligible to request a free sticker and/or iron-on patch of our team logo mailed out. Fill out [the form at our homepage](https://linktr.ee/3pfl) to request one. This is our gift to say thank you for being on our team.
@@ -52,7 +57,11 @@ Players who became Pro for the first time are eligible to request a free sticker
 If you request an Iron On Patch, [follow these instructions to apply it](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022). You'll have to BYO Parchment or Wax Paper in Step 3.
 
 ## 5. In a Trophy game where all players are teammates, try to tie 🤝
-In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active, it's game on, and this is allowable.
+In a game where multiple teammates are playing, teammates can agree to tie and/or help each other out.
+
+- To propose doing this, one player must spam the 'Nooo' emoji three times.
+- The other teammate(s) must respond with the 'Nooo' emoji three times _or_ with a 👍.
+- If all teammates don't respond this way, this rule is **not** active, it's game on, and this is allowable.
 
 It is against the rules for:
 
