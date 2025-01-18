@@ -36,9 +36,9 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - Did not recently violate a team rule.
 
 **The definition of "Being Active" changes for each role and those are**:
-- **To become an Amateur**: You must be a good team mate. Examples include trading cards and/or having some form of a positive interaction with the team.
-- **To become a Pro**: You must be an engaged team mate. Examples include being active on team chat or being a member of the 3PFL Discord. Plus, everything above.
-- **To become a Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team. Plus, everything above.
+- **To become an Amateur**: Trading cards and/or having some form of a positive interaction with the team.
+- **To become a Pro**: Being active on team chat and/or being a member of the 3PFL Discord. And also, what amateur requires.
+- **To become a Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team. And also, what amateur and pro requires.
 
 ## 3. Demotion + Boot Guidelines 😞
 
