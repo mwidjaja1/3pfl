@@ -34,7 +34,7 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 - You must meet the current trophy minimum or have above 1700 trophies, whichever is lower.
 - Did not recently violate a team rule.
 
-**Additionally, to foster a positive team environment, these guidelines also apply to certain roles**:
+**Additionally, these roles have special requirements**:
 - **To become an Amateur**: You must be a good team mate. Examples include trading cards, chatting with the team, and/or having positive experiences with the team in game.
 - **To become a Pro**: You must be an engaged team mate. Examples include being active on team chat or being a member of the 3PFL Discord. Plus, everything above.
 - **To become a Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team. Plus, everything above.
@@ -46,7 +46,7 @@ On promotion day, we will also unfortunately demote eligible players by -1 tier 
 **All Demotions follow these guidelines:**
 - Players _will_ be demoted on Promotion/Demotion day if they weren't active during the past 7 days.
 - Players _may_ be demoted at anytime if they violated any of our Team Rules.
-- Players _may_ be demoted on Promotion/Demotion day if they've consistently edged around our Team Rules in a way that doesn't foster a positive team environment.
+- Players _may_ be demoted on Promotion/Demotion day if they have not met their role's special requirements over consecutive seasons.
 
 If a 'Rookie' level player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will boot players with a focus of keeping the team stable in regards to both the leaderboard rankings and team culture.
 
