@@ -44,7 +44,6 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 On promotion day, we will also unfortunately demote eligible players by -1 tier in this way:
 
 **All Demotions follow these guidelines:**
-
 - Players _will_ be demoted on Promotion/Demotion day if they weren't active during the past 7 days.
 - Players _may_ be demoted at anytime if they violated any of our Team Rules.
 - Players _may_ be demoted on Promotion/Demotion day if they've consistently edged around our Team Rules in a way that doesn't foster a positive team environment.
