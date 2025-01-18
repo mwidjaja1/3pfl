@@ -28,16 +28,16 @@ When a rule violation is identified:
 If you want to report a team member for violating these rules, try to take evidence if possible and let us know by [DM'ing a captain on Discord](https://discord.gg/RGzcnXfWhv) or by submitting a report on our [Homepage](https://linktr.ee/3pfl). 
 
  ## 2. Promotions Guidelines 📈
-Once a week (on a randomly selected day) we will promote eligible players by +1 Tier in this way:
+Once a week (on a randomly selected day) we will promote eligible players by +1 Tier who meet all of the criteria below:
 
 - You must logged into the game and be part of our the team for the past 7 days.
 - You must have been active, using your role's definition of active, during the past 7 days.
-  - **To become an Amateur**: Trading cards and/or having some form of a positive interaction with the team.
-  - **To become a Pro**: Being active on team chat and/or being a member of the 3PFL Discord. And also, what amateur requires.
-  - **To become a Co-Captain**: These are done rarely, on an invite basis for players who've made exceptional contributions to the team. And also, what amateur and pro requires.
+  - For Amateur: Trading cards and/or having some form of a positive interaction with the team.
+  - For Pro: Being active on team chat and/or being a member of the 3PFL Discord. And also, what amateur requires.
 - You must meet the current trophy minimum or have above 1700 trophies, whichever is currently lower.
 - Did not violate a team rule in the past 2 seasons.
 
+Promotions to Co-Captain are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
 
