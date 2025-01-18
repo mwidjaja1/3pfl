@@ -6,7 +6,7 @@ We expect all team members to follow these rules on the game and [on our Discord
 1. Be friendly and respectful to our team. Bullying, harassing, lying, abusing your role, and spamming are examples of not being respectful. ❤️
 2. We promote players who are active on the team, has 1700+ trophies, & is positively contributing to the team 📈
 3. We demote/boot players who are inactive in the last 7 days, consistently didn't meet their role's guidelines, or violated a rule 😞
-4. If you want to tie with another player, spam NOO x3. If the other player responds the same or responds with a 👍, it means you agree to help each other.
+4. Players in teammate games are highly encouraged to tie by spamming NOO x3. If the other player responds the same or responds with a 👍, it means you agree to tie.
 5. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
 
 ---
@@ -49,7 +49,7 @@ On promotion day, we will also unfortunately demote eligible players by -1 tier 
 
 If a 'Rookie' level player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will boot players with a focus of keeping the team stable in regards to both the leaderboard rankings and team culture.
 
-## 4. In a Trophy game where all players are teammates, try to tie 🤝
+## 4. In a game where all players are teammates, try to tie 🤝
 In a game where multiple teammates are playing, teammates can agree to tie and/or help each other out.
 
 - To propose doing this, one player must spam the 'Nooo' emoji three times.
