@@ -32,7 +32,7 @@ Once a week (on a randomly selected day) we will promote eligible players by +1 
 
 - You must logged into the game and be part of our the team for the past 7 days.
 - You must have been active, using your role's definition of active, during the past 7 days.
-  - For Amateur: Either trading cards or having some form of a positive interaction with the team.
+  - For Amateur: Either trading cards or having a positive interaction with the team without any negative interactions.
   - For Pro: What Amateur says and either being active on team chat or being a member of the 3PFL Discord.
 - You must meet the current trophy minimum or have above 1700 trophies, whichever is currently lower.
 - Did not violate a team rule in the past 2 seasons.
