@@ -29,16 +29,24 @@ If you want to report a team member for violating these rules, try to take evide
  ## 2. Promotions Guidelines 📈
 Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
 
-- Was on the team and active during the past 7 days.
-- Met the current trophy min or is above 1700, whichever is lower.
-- Did not recently violate Rule #1.
-- To go from Amateur to Pro: Must be on the 3PFL Discord or actively engaged in the game chat. (p.s. once you're a Pro, you can request a free physical team sticker.)
-- To go from Pro to Co-Captains: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
+- **Active in Game:** Was on the team and logged in during the past 7 days.
+- **Trophy Minimum:** Met the current trophy min or is above 1700, whichever is lower.
+- **No Rule Violations:** Did not violate Rule #1 or any other rule in the past two seasons.
+- **Active On Team**: Amateurs must meet one of these conditions and Pros must meet two.
+    - Traded Cards
+    - Actively Engages with the Chat
+    - Being on our [Discord](https://discord.gg/RGzcnXfWhv)
+
+Co-Captain promotions are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
-Players may receive a -1 tier demotion during Promotion Day if they didn't play _or_ wasn't active during the past 7 days. Players may be demoted or booted out of turn if they violated Rule #1.
+We typically demote players during promotion day based on these rules:
 
-If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn booted players on Discord whenever possible. We boot players according to these factors:
+- **Players will be demoted** if they weren't active in the game in the past 7d.
+- **Players may be demoted** if they didn't meet their role's definition of being active on team, over consecutive seasons, as defined in the promotion guidelines.
+- **Players will be demoted or booted** if they violated Rule #1 or another team rule. These can happen at anytime as needed.
+
+If a 'Rookie' player had a reason to be demoted again, they become a candidate for booting at the next need for an available seat. We will always try to warn  players on Discord whenever possible. We boot players according to these factors:
 
 - We do not want more than one open seat at any given time.
   - Captains may use alt players to fill extra seats, as a mechanism to keep our trophy count high enough, until we can go back to a max of one open seat. When this happens, a captain must notify the team what player that is.
