@@ -3,8 +3,8 @@
 ## Summary
 We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
 1. Be friendly and respectful to our team. Bullying, harassing, lying, abusing your role, and spamming are examples of not being respectful. ❤️
-2. We promote players who were on the team during the last 7 days, were active, has 1700+ trophies, & is on Discord membership (for Pro promotions) 📈
-3. We demote/boot players who are inactive in the last 7 days or violated a rule 😞
+2. We promote players who logged into the game during the last 7 days and met the Team Activity Guidelines for the role they'd be promoted into 📈
+3. We demote/boot players who didn't login during the last 7 days, didn't meet the Team Activity Guidelines over consecutive seasons, or violated a rule 😞
 4. Team members who get promoted to pro are eligible for a free 3PFL Sticker 💌
 5. If you want to tie with another player, spam NOO x3. If the other player responds the same or responds with a 👍, it means you agree to help each other.
 6. Don't give us a reason to change the rules because of you
@@ -30,9 +30,9 @@ If you want to report a team member for violating these rules, try to take evide
 Once a week (on a randomly selected day) we will promote eligible players by +1 Tier. Promotions are done to encourage activity & appropriate behaviors. Players are eligible for promotion if they fulfill ALL of these:
 
 - **Active in Game:** Was on the team and logged in during the past 7 days.
-- **Trophy Minimum:** Met the current trophy min or is above 1700, whichever is lower.
 - **No Rule Violations:** Did not violate Rule #1 or any other rule in the past two seasons.
-- **Active On Team**: Amateurs must meet one of these conditions and Pros must meet two.
+- **Active On Team**: To qualify or remain in a tier, players must meet at least 1 of these for rookie, 2 for amateur, and 3 for pro:
+    - 1700+ Trophies
     - Traded Cards
     - Actively Engages with the Chat
     - Being on our [Discord](https://discord.gg/RGzcnXfWhv)
