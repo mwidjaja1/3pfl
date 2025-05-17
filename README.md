@@ -58,13 +58,17 @@ Players who became Pro for the first time are eligible to request a free sticker
 
 If you request an Iron On Patch, [follow these instructions to apply it](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022). You'll have to BYO Parchment or Wax Paper in Step 3.
 
-## 5. In a Trophy game where all players are teammates, try to tie 🤝
-In a 2 player trophy game, both players may opt to throw the match so nobody loses trophies. To propose doing this, one player must spam the 'Nooo' emoji three times. The other player must respond with the 'Nooo' emoji three times _or_ with a 👍. If they don't respond this way, this rule is **not** active, it's game on, and this is allowable.
+## 5. You're strongly encouraged to tie in Challenge Games and/or acknowledge your teammates in Trophy Games 🤝
+You're strongly encouraged to tie with your teammates in Challenge Games and acknowledge your teammates in Trophy Games. Here's how:
+
+1. One player must initiate by spamming NOO x3.
+2. If the other player spams NOO x3 or sends a 👍, both players are acknowledging they see each other. They must tie for Challenge Games.
+3. If the other player does NOT respond with NOO x3 or a 👍, both players should play normally.
 
 It is against the rules for:
 
 1. Both players to agree to help and for one player to use that opportunity to backstab the other player into an easy win.
-2. For one player to explicitly taunt or grief a teammate in a 1v1 game.
+2. For one player to explicitly taunt or grief a teammate in a 1v1 game, even if they didn't agree to tie/acknowledge.
 
 When this happens, please provide video evidence if you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl).
 
