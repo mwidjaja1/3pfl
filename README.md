@@ -1,7 +1,7 @@
 # 3 Putt for Life Team Rules
 
 ## Summary
-We expect all team members to follow these core rules in game and [on our Discord](https://discord.gg/RGzcnXfWhv).
+For both in game and [on our Discord](https://discord.gg/RGzcnXfWhv), all teammates are expected to:
 
 1. Be friendly and respectful to our team ❤️
 2. Stay active and engaged to earn promotions 📈
@@ -54,9 +54,9 @@ We typically demote players during promotion day based on these rules:
 - When filling a vacancy, we prefer inviting prior teammates back so long as they're within 200 trophies from our current minimum.
 
 ## 4. Stickers and/or Iron-On Patches for Pros 💌
-Pros get a free sticker/iron-on patch via our [homepage form](https://linktr.ee/3pfl). This is our way of saying thanks for joining the team! [These are the instructions for applying the Iron On Patch]](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022).
+Pros get a free sticker/iron-on patch via our [homepage form](https://linktr.ee/3pfl). This is our way of saying thanks for joining the team! [These are the instructions for applying the Iron On Patch](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022).
 
-## 5. You're strongly encouraged to tie in Challenge Games and/or acknowledge your teammates in Trophy Games 🤝
+## 5. Tie Protocol 🤝
 You're strongly encouraged to tie with your teammates in Challenge Games and acknowledge your teammates in Trophy Games. Here's how:
 
 1. One player must initiate by spamming NOO x3
