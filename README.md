@@ -5,7 +5,7 @@ For both in game and [on our Discord](https://discord.gg/RGzcnXfWhv), all teamma
 
 1. Be friendly and respectful to our team ❤️
 2. Stay active and engaged to earn promotions 📈
-3. Inactive players (7+ days), unengaged players, or rule violators face demotion/boot 😞
+3. Inactivity, lack of engagement, or rule violations may lead to demotion/booting 😞
 4. New Pros get a free 3PFL Sticker 💌
 5. Use "NOO x3" protocol to tie with teammates 🤝
 6. Don't test these rules 🌭
@@ -14,16 +14,13 @@ For both in game and [on our Discord](https://discord.gg/RGzcnXfWhv), all teamma
 
 ## 1. Be friendly to our team ❤️
 
-We are trying to create a friendly + active team environment. To that end, all teammates -- regardless of level even up to Captain -- are expected to:
+To maintain a friendly & active team environment, all teammates at all levels are expected to:
 
 - **Be respectful to all teammates even if the other side was at fault**. Violations include bullying, harassment, lying, griefing, vulgarity, or rudeness toward teammates.
 - **Support our family friendly community**. Violations include abusing your role, making discriminatory statements, being egregiously not family friendly, or spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-When a rule violation is identified:
-
-- **Emergency situations:** Any captain/co-captain can act immediately.
-- **All other cases:** Captains will discuss privately and decide on either a warning/demotion/boot once 3 captains agree (unless more disagree).
+**When a rule violation is identified**: Captains will privately discuss and decide on appropriate action (warning, demotion, or boot). A majority vote of captains, with a minimum of 3, is required. Any captain may act on their own in an emergency situation.
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
@@ -50,7 +47,7 @@ We typically demote players during promotion day based on these rules:
 
 **Booting process:**
 - Rookies facing second demotion become candidates for booting.
-- We try to only have 1 open seat at a time. Captains may use alts temporarily to fill a vacancy to get to that max vacancy, so long as they announce it to the team.
+- We aim to keep the team full. To manage vacancies, captains may announce their use of, and temporarily use, alt accounts.
 - When filling a vacancy, we prefer inviting prior teammates back so long as they're within 200 trophies from our current minimum.
 
 ## 4. Stickers and/or Iron-On Patches for Pros 💌
@@ -63,12 +60,12 @@ You're strongly encouraged to tie with your teammates in Challenge Games and ack
 2. If the other player spams NOO x3 or sends a 👍, both players must tie.
 3. If the other player does NOT respond with NOO x3 or a 👍, both players should play normally. This is allowed, just don't bully your teammate unnecessarily.
 
-It is against the rules for:
+It is against the rules to:
 
-1. Backstabbing a player after an agreement
-2. Taunting or griefing a teammate in a 1v1 game, even if they didn't agree to tie/acknowledge.
+1. Backstab a player after an agreement
+2. Taunt or grief a teammate in a 1v1 game, even if they didn't agree to tie/acknowledge.
 
-When this happens, please provide video evidence if you can and report it to @iwidji [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl).
+When this happens, please provide video evidence if you can and report it to any captain [on Discord](https://discord.gg/RGzcnXfWhv) or via our [Homepage](https://linktr.ee/3pfl).
 
 ## 6. Don't give us a reason to change the rules because of you 🌭
 If you're testing the Team Rules to see how far you can go, brace yourself for disappointment just like meeting a fellow person who believes the hotdog is a sandwich. These rules can change at anytime with no warning to protect a friendly & active team environment.
