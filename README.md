@@ -1,7 +1,7 @@
 # 3 Putt for Life Team Rules
 
 ## Summary
-We expect all team members to follow these four rules on the game and [on our Discord](https://discord.gg/RGzcnXfWhv).
+We expect all team members to follow these core rules in game and [on our Discord](https://discord.gg/RGzcnXfWhv).
 
 1. Be friendly and respectful to our team ❤️
 2. Stay active and engaged to earn promotions 📈
