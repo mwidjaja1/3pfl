@@ -24,9 +24,9 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
- ## 2. Promotions Guidelines 📈
+## 2. Promotions Guidelines 📈
 
-Promotions happen around season end for players who meet ALL requirements:
+Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
 - **No Rule Violations:** Clean record for past two seasons
 - **Active in Game:** Logged in within past 7 days
@@ -38,7 +38,7 @@ Promotions happen around season end for players who meet ALL requirements:
 
 #### Special Circumstances
 
-- Account Swapping: A player who swaps accounts may inherit the rank of their outgoing account, provided they maintain continuous team activity. However, promotion eligibility & history will be based on the new account's merits.
+- Account Swapping: A player who swaps accounts may inherit the rank of their outgoing account, provided they maintain continuous team activity. However, promotion eligibility & history will be based on the new account's merits. This is exempted from the one tier promotion rule.
 - Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
@@ -57,13 +57,7 @@ We typically demote players during promotion day based on these rules:
 Pros get a free sticker/iron-on patch via our [homepage form](https://linktr.ee/3pfl). This is our way of saying thanks for joining the team! [These are the instructions for applying the Iron On Patch](https://d3ccuprjuqkp1j.cloudfront.net/SupportImages/PDFinstructions/Iron-On_Instructions_2021.pdf?utm_source=offline&utm_medium=productinstructions&utm_campaign=instructionsheet2022).
 
 ## 5. Tie Protocol 🤝
-You're strongly encouraged to tie with your teammates in Challenge Games and acknowledge your teammates in Trophy Games. Here's how:
-
-1. One player must initiate by spamming NOO x3
-2. If the other player spams NOO x3 or sends a 👍, both players must tie.
-3. If the other player does NOT respond with NOO x3 or a 👍, both players should play normally. This is allowed, just don't bully your teammate unnecessarily.
-
-It is against the rules to:
+You're strongly encouraged to tie with your teammates in Challenge Games and acknowledge your teammates in Trophy Games. You can initiate ties by spamming 'NOO x3'. If your teammate responds with 'NOO x3' or 👍, both must tie and/or help each other. No response means play normally. That said, it is against the rules to:
 
 1. Backstab a player after an agreement
 2. Taunt or grief a teammate in a 1v1 game, even if they didn't agree to tie/acknowledge.
