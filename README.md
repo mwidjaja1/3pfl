@@ -32,11 +32,14 @@ Promotions happen around season end for players who meet ALL requirements:
 - **Active in Game:** Logged in within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, and Pros must meet 3
   - Traded Cards
-  - Actively Engages with the Chat
+  - Actively Engages with the in-game Chat
   - Has +1700 Trophies
   - Being on our [Discord](https://discord.gg/RGzcnXfWhv).
 
-Co-Captain promotions are done rarely, on an invite basis for players who've made exceptional contributions to the team.
+#### Special Circumstances
+
+- Account Swapping: A player who swaps accounts may inherit the rank of their outgoing account, provided they maintain continuous team activity. However, promotion eligibility & history will be based on the new account's merits.
+- Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
 
 ## 3. Demotion + Boot Guidelines 😞
 We typically demote players during promotion day based on these rules:
