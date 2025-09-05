@@ -30,7 +30,7 @@ Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen 
 
 - **No Rule Violations:** Clean record for past two seasons
 - **Active in Game:** Logged in within past 7 days
-- **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, and Pros must meet 3
+- **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded Cards
   - Actively Engages with the in-game Chat
   - Has +1700 Trophies
@@ -38,8 +38,8 @@ Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen 
 
 #### Special Circumstances
 
-- Account Swapping: A player who swaps accounts may inherit the rank of their outgoing account, provided they maintain continuous team activity. However, promotion eligibility & history will be based on the new account's merits. This is exempted from the one tier promotion rule.
-- Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team.
+- Returning Players: A returning player who left for an approved reason can be re-promoted back to their original role and can be exempted from the one tier promotion rule. Promotion eligibility will be based on the new account's merits on the next promotion cycle after 7d of being on the team.
+- Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team and have the max activity points.
 
 ## 3. Demotion + Boot Guidelines 😞
 We typically demote players during promotion day based on these rules:
@@ -47,6 +47,10 @@ We typically demote players during promotion day based on these rules:
 - **Automatic demotion:** Not logging in for 7+ days (can happen anytime for each 7d window)
 - **Possible demotion:** Not meeting engagement requirements for consecutive seasons
 - **Demotion/boot:** Rule violations (can happen anytime)
+
+#### Special Circumstances
+
+- Returning Players: Returning players may be booted in the first 7d if we suspect they're going to continue a negative history, either from prior or current experiences.
 
 **Booting process:**
 - Rookies facing second demotion become candidates for booting.
