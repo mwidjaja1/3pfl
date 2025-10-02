@@ -32,7 +32,7 @@ Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen 
 - **Active in Game:** Logged in within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
-  - Actively Engages with the in-game Chat
+  - Actively & Meaningfully Engages with the in-game Chat
   - Has +1700 Trophies
   - Being on our [Discord](https://discord.gg/RGzcnXfWhv).
 
