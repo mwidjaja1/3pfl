@@ -20,7 +20,16 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 - **Support our family friendly community**. Violations include abusing your role, making discriminatory statements, being egregiously not family friendly, or spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-**When a rule violation is identified**: Captains will privately discuss and decide on appropriate action (warning, demotion, or boot). A majority vote of captains, with a minimum of 3, is required. Any captain may act on their own in an emergency situation.
+**When a rule violation is identified**: Captains will take up to 24 hours to judge the severity based on this rubric until time is up, we get 3 votes, or it's an emergency situation where a captain must take action.
+
+|                                   | 0 Pt      | -0.25 Pt                       | -1 Pt                       | -3 Pt                            |
+|-----------------------------------|-----------|--------------------------------|-----------------------------|----------------------------------|
+| Was this offense harmful?         | Annoyance | Disruptive                     | Hurtful                     | Abusive or a TOS/Legal Violation |
+| Was this offense intentional?     | No        | Maybe or Apologetic            | Yes or Unapologetic         | N/A                              |
+| Was this offense obvious?         | No        | Maybe/Unsure                   | Yes                         | N/A                              |
+| Is this player a repeat offender? | No        | For a different or 1+ Yr issue | For the same or 1- Yr issue | N/A                              |
+
+The average of these scores, rounded down, will set the _maximum_ points violation we'll deduct from a player's score from Rule #2. Captains should warn players whenever possible.
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
@@ -28,8 +37,8 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
-- **No Rule Violations:** Clean record for past two seasons
-- **Active in Game:** Logged in within past 7 days
+- **No Rule Violations:** If a player had a negative point deduction, that deduction will be reduced by one point for every consecutive season of clean behavior.
+- **Active in Game:** Logged in and meaningfully engaged with the game within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
   - Actively & Meaningfully Engages with the in-game Chat
