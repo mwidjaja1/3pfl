@@ -22,21 +22,25 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
+**When a rule violation is identified**: Captains have up to 24 hours to obtain the majority of at least 3 captains' votes to decide if they'll let it go, warn the player, or set a penalty. If a penalty is necessary, the rules recommend these deductions:
 
-**When a rule violation is identified**: Captains have either up to 24 hours or get 3 captains' input to decide if they'll let it go, warn the player, or set a penalty. If they set a penalty, Captains will use this rubric to vote on the maximum point penalty and their inputs will be averaged.
+- -0 Points: Annoyances, Disruptive, NSFW, and/or Disrespectful Behavior
+- -1 Point: Challenge Mode Tie Rule Violations and/or a Tier 1 Behavior that has increased in severity during discipline.
+  - A Tie Rule Violation is defined as both players agreeing to tie in a challenge game and one player intentionally not tying.
+- -3 Points: Abusive Behavior.
+- -4 Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
+  - This is exempt from the standard 24 hour/3 captains requirement.
 
-|                                   | 0 Pt | -0.25 Pt                       | -1 Pt                       | -3 Pt                            |
-|-----------------------------------|------|--------------------------------|-----------------------------|----------------------------------|
-| Was this offense harmful?         | N/A  | Annoyance or Bothersome        | Hurtful or Disruptive       | Abusive or a TOS/Legal Violation |
-| Was this offense intentional?     | No   | Maybe or Apologetic            | Yes or Unapologetic         | N/A                              |
-| Is this player a repeat offender? | No   | For a different or 1+ Yr issue | For the same or -1 Yr issue | N/A                              |
+**Penalty Escalation**:
+- For each additional rule violation deemed worthy of a penalty, the deduction is increased by +1 Point relative to the player's previous penalty level for a prior offense.
+- If a player leaves the team and returns, they inherit how many negative points they had at the time they left.
 
 ## 2. Promotions Guidelines 📈
 
 Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
 - **No Rule Violations:** If a player had a negative point deduction, that deduction will be reduced by one point for every consecutive season of clean behavior.
-- **Active in Game:** Logged in and meaningfully engaged with the game within past 7 days
+- **Active in Game:** Logged in and played a game within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
   - Actively & Meaningfully Engages with the in-game Chat
