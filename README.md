@@ -24,8 +24,8 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 **When a rule violation is identified**: Captains have up to 24 hours to obtain the majority of at least 3 captains' votes to decide if they'll let it go, warn the player, or set a penalty. _If a penalty is necessary_, the rules recommend these deductions:
 
-- -1 Base Point: Annoyances, Disruptive, NSFW, Challenge Mode Tie Rule Violations, and/or Disrespectful Behavior.
-  - A Tie Rule Violation is defined as both players agreeing to tie in a challenge game and one player intentionally not tying.
+- -1 Base Point: Annoying, Disruptive, NSFW, and/or Disrespectful Behavior.
+  - This also includes Challenge Mode Tie Rule Betrayals where both players agreed to tie and the other one took the win.
 - -2 Base Point: Any escalation in disciplining or responding to a current penalty.
 - -3 Base Points: Intentionally Abusive Behavior.
 - -4 Base Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
