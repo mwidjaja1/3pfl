@@ -20,18 +20,16 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 - **Support our family friendly community**. Violations include abusing your role, making discriminatory statements, being egregiously not family friendly, or spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-**When a rule violation is identified**: Captains will take up to 24 hours to judge the severity based on this rubric until time is up, we get 3 votes, or it's an emergency situation where a captain must take action.
-
-|                                   | 0 Pt      | -0.25 Pt                       | -1 Pt                       | -3 Pt                            |
-|-----------------------------------|-----------|--------------------------------|-----------------------------|----------------------------------|
-| Was this offense harmful?         | Annoyance | Disruptive                     | Hurtful                     | Abusive or a TOS/Legal Violation |
-| Was this offense intentional?     | No        | Maybe or Apologetic            | Yes or Unapologetic         | N/A                              |
-| Was this offense obvious?         | No        | Maybe/Unsure                   | Yes                         | N/A                              |
-| Is this player a repeat offender? | No        | For a different or 1+ Yr issue | For the same or 1- Yr issue | N/A                              |
-
-The average of these scores, rounded down, will set the _maximum_ points violation we'll deduct from a player's score from Rule #2. Captains should warn players whenever possible.
-
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
+
+
+**When a rule violation is identified**: Captains have either up to 24 hours or get 3 captains' input to decide if they'll let it go, warn the player, or set a penalty. If they set a penalty, Captains will use this rubric to vote on the maximum point penalty and their inputs will be averaged.
+
+|                                   | 0 Pt | -0.25 Pt                       | -1 Pt                       | -3 Pt                            |
+|-----------------------------------|------|--------------------------------|-----------------------------|----------------------------------|
+| Was this offense harmful?         | N/A  | Annoyance or Bothersome        | Hurtful or Disruptive       | Abusive or a TOS/Legal Violation |
+| Was this offense intentional?     | No   | Maybe or Apologetic            | Yes or Unapologetic         | N/A                              |
+| Is this player a repeat offender? | No   | For a different or 1+ Yr issue | For the same or -1 Yr issue | N/A                              |
 
 ## 2. Promotions Guidelines 📈
 
