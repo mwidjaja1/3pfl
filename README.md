@@ -22,17 +22,17 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
-**When a rule violation is identified**: Captains have up to 24 hours to obtain the majority of at least 3 captains' votes to decide if they'll let it go, warn the player, or set a penalty. If a penalty is necessary, the rules recommend these deductions:
+**When a rule violation is identified**: Captains have up to 24 hours to obtain the majority of at least 3 captains' votes to decide if they'll let it go, warn the player, or set a penalty. _If a penalty is necessary_, the rules recommend these deductions:
 
-- -0 Points: Annoyances, Disruptive, NSFW, and/or Disrespectful Behavior
-- -1 Point: Challenge Mode Tie Rule Violations and/or a Tier 1 Behavior that has increased in severity during discipline.
+- -1 Base Point: Annoyances, Disruptive, NSFW, Challenge Mode Tie Rule Violations, and/or Disrespectful Behavior.
   - A Tie Rule Violation is defined as both players agreeing to tie in a challenge game and one player intentionally not tying.
-- -3 Points: Abusive Behavior.
-- -4 Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
+- -2 Base Point: Any escalation in disciplining or responding to a current penalty.
+- -3 Base Points: Intentionally Abusive Behavior.
+- -4 Base Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
   - This is exempt from the standard 24 hour/3 captains requirement.
 
 **Penalty Escalation**:
-- For each additional rule violation deemed worthy of a penalty, the deduction is increased by +1 Point relative to the player's previous penalty level for a prior offense.
+- For each additional rule violation deemed worthy of a penalty, the base penalty is increased by +1 Point relative to the player's previous penalty level for a prior offense.
 - If a player leaves the team and returns, they inherit how many negative points they had at the time they left.
 
 ## 2. Promotions Guidelines 📈
