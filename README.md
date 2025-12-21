@@ -31,9 +31,9 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 - -4 Base Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
   - This is exempt from the standard 24 hour/3 captains requirement.
 
-**Penalty Escalation**:
-- For each additional rule violation deemed worthy of a penalty, the base penalty is increased by +1 Point relative to the player's previous penalty level for a prior offense.
-- If a player leaves the team and returns, they inherit how many negative points they had at the time they left.
+**Penalty Escalation:**
+- For each additional rule violation deemed worthy of a penalty, the base penalty is increased by +1 Point relative to the player's previous base penalty within the past year.
+- If a former player left the team with a penalty, if they return, they'll inherit their penalty from the time they left.
 
 ## 2. Promotions Guidelines 📈
 
