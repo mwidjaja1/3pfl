@@ -39,7 +39,7 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
-- **No Rule Violations:** If a player had a negative point deduction, that deduction will be reduced by one point for every consecutive season of clean behavior.
+- **No Rule Violations:** - If a player had a negative point deduction, that deduction will be reduced by one point for every consecutive season of clean behavior after their first clean season.
 - **Active in Game:** Logged in and played a game within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
