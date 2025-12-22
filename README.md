@@ -20,10 +20,11 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 - **Support our family friendly community**. Violations include abusing your role, making discriminatory statements, being egregiously not family friendly, or spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-**When a rule violation is identified**: Any captain may act in an emergency situation with grave danger to the team. Otherwise, at least the Captains will privately discuss and at least 3 captains must agree upon an appropriate penalty (such as a warning, negative activity point, demotion, and/or booting).
+**When a rule violation is identified**: Any captain may act in an emergency situation with grave danger to the team. Otherwise, the Captains will privately discuss and at least 3 captains must agree on this plan:
 
-- Captains shall consider the (1) severity of the offense, (2) the frequency of the offense, and (3) how active that player is. The more severe or more frequent an offense is, the higher the penalties.
-- How long a player will be held in their current status until we forgive them. We typically require two conecutive seasons of clean behavior.
+- Captains shall determine if a penalty is required, such as a warning, negative activity point, demotion, and/or booting.
+    - Captains shall consider the (1) severity of the offense, (2) the frequency of the offense, and (3) how active that player is. The more severe or more frequent an offense is, the higher the penalties.
+- Captains shall consider how long a player needs to have clean behavior in order to be forgiven. This is typically two consecutive full seasons.
     - If a player leaves the team while still holding a penalty, that penalty will be re-instantiated if that player joins the team again.
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
