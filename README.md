@@ -44,7 +44,7 @@ Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen 
 #### Special Circumstances
 
 - Returning Players: A returning player who left for an approved reason can be re-promoted back to their original role and can be exempted from the one tier promotion rule. Promotion eligibility will be based on the new account's merits on the next promotion cycle after 7d of being on the team.
-- Silent Players: Players who have joined the team and has been completely silent for a full weekw since they joined (i.e. no chats, card trades, and/or little movement) are candidates for booting.
+- Silent Players: Players who have joined the team and has been completely silent for a full week since they joined (i.e. no chats, card trades, and/or little movement) are candidates for booting.
 - Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team and have the max activity points.
 
 ## 3. Demotion + Boot Guidelines 😞
