@@ -22,24 +22,18 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
 
-**When a rule violation is identified**: Captains have up to 24 hours to obtain the majority of at least 3 captains' votes to decide if they'll let it go, warn the player, or set a penalty. _If a penalty is necessary_, the rules recommend these deductions:
+**When a rule violation is identified**: Any captain may act in an emergency situation with grave danger to the team. Otherwise, the Captains will privately discuss and at least 3 captains must agree on this plan:
 
-- -1 Base Point: Annoying, Disruptive, NSFW, and/or Disrespectful Behavior.
-  - This also includes Challenge Mode Tie Rule Betrayals where both players agreed to tie and the other one took the win.
-- -2 Base Point: Any escalation in disciplining or responding to a current penalty.
-- -3 Base Points: Intentionally Abusive Behavior.
-- -4 Base Points: Emergencies (that must be addressed or will result in grave danger), TOS, and/or Legal Violations.
-  - This is exempt from the standard 24 hour/3 captains requirement.
-
-**Penalty Escalation:**
-- For each additional rule violation deemed worthy of a penalty, the base penalty is increased by +1 Point relative to the player's previous base penalty within the past year.
-- If a former player left the team with a penalty, if they return, they'll inherit their penalty from the time they left.
+- Captains shall consider the (1) severity and (2) the frequency of the offense. The more severe or more frequent an offense is, the higher the penalties.
+- Captains shall determine if a penalty is required, such as a warning, negative activity point, demotion, and/or booting.
+- Captains shall consider how long a player needs to have clean behavior in order to be forgiven. This is typically two consecutive full seasons.
+    - If a player leaves the team while still holding a penalty, the captains may retroactively apply that penalty on said player and re-boot them.
 
 ## 2. Promotions Guidelines 📈
 
 Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
-- **No Rule Violations:** - If a player had a negative point deduction, that deduction will be reduced by one point for every consecutive season of clean behavior after their first clean season.
+- **No Rule Violations:** A player cannot be promoted if they have not been forgiven from a Rule Violation.
 - **Active in Game:** Logged in and played a game within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
