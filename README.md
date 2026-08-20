@@ -20,16 +20,21 @@ To maintain a friendly & active team environment, all teammates at all levels ar
 - **Support our family friendly community**. Violations include abusing your role, making discriminatory statements, being egregiously not family friendly, or spam.
 - **Not break any laws or Noodlecake's Terms of Service**
 
-**When a rule violation is identified**: Captains will privately discuss and decide on appropriate action (warning, demotion, or boot). A majority vote of captains, with a minimum of 3, is required. Any captain may act on their own in an emergency situation.
-
 **To report violations:** Take evidence and DM a captain on [Discord](https://discord.gg/RGzcnXfWhv) or use our [Homepage](https://linktr.ee/3pfl).
+
+**When a rule violation is identified**: Any captain may act in an emergency situation with grave danger to the team. Otherwise, the Captains will privately discuss and at least 3 captains must agree on this plan:
+
+- Captains shall consider the (1) severity and (2) the frequency of the offense. The more severe or more frequent an offense is, the higher the penalties.
+- Captains shall determine if a penalty is required, such as a warning, negative activity point, demotion, and/or booting.
+- Captains shall consider how long a player needs to have clean behavior in order to be forgiven. This is typically two consecutive full seasons.
+    - If a player leaves the team while still holding a penalty, the captains may retroactively apply that penalty on said player and re-boot them.
 
 ## 2. Promotions Guidelines 📈
 
 Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen around season end for players who meet ALL requirements:
 
-- **No Rule Violations:** Clean record for past two seasons
-- **Active in Game:** Logged in within past 7 days
+- **No Rule Violations:** A player cannot be promoted if they have not been forgiven from a Rule Violation.
+- **Active in Game:** Logged in and played a game within past 7 days
 - **Engaged with the Team:** Rookies must meet 1 of these rules, Amateurs must meet 2, Pros must meet 3, and Co-Captains must meet 4.
   - Traded 200+ Cards
   - Actively & Meaningfully Engages with the in-game Chat
@@ -39,7 +44,7 @@ Promotions are awarded one tier at a time (e.g., Rookie → Amateur) and happen 
 #### Special Circumstances
 
 - Returning Players: A returning player who left for an approved reason can be re-promoted back to their original role and can be exempted from the one tier promotion rule. Promotion eligibility will be based on the new account's merits on the next promotion cycle after 7d of being on the team.
-- Silent Players: Players who have joined the team and has been completely silent for a full weekw since they joined (i.e. no chats, card trades, and/or little movement) are candidates for booting.
+- Silent Players: Players who have joined the team and has been completely silent for a full week since they joined (i.e. no chats, card trades, and/or little movement) are candidates for booting.
 - Co-Captain Promotions: These are done rarely, on an invite basis for players who've made exceptional contributions to the team and have the max activity points.
 
 ## 3. Demotion + Boot Guidelines 😞
